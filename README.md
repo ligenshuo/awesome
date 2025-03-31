@@ -5,7 +5,7 @@ Awesome Apps and Papers of AI for Sciences
 ## Apps
 
 |  Name  | Code | Core Function | Classification | Features | Detailed    |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
 | [ChatPaper](https://chatpaper.com/) | [https://github.com/kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) | TBD | TBD | TBD | TBD |
 | [学术版GPT](https://academic.chatwithpaper.org/) | [https://github.com/binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) | TBD | TBD | TBD | TBD |
 
