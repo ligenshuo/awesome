@@ -18,5 +18,5 @@ Awesome Apps and Papers of AI for Sciences
 | [CycleResearcher: Improving Automated Research via Automated Review](https://openreview.net/forum?id=bjcsVLoHYs) | ICLR 2025 (Poster) | [![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social)](https://github.com/zhu-minjun/Researcher) | TBD | TBD | TBD | TBD |
 | [AutoSciLab: A Self-Driving Laboratory For Interpretable Scientific Discovery](https://arxiv.org/abs/2412.12347) | AAAI 2025 | TBD | TBD | TBD | TBD | TBD |
 | [Assessing the Creativity of LLMs in Mathematical Problem Solving](https://arxiv.org/abs/2410.18336) | AAAI 2025 | [![](https://img.shields.io/github/stars/JunyiYe/CreativeMath?style=social)](https://github.com/JunyiYe/CreativeMath) | TBD | TBD | TBD | TBD |
-
+| [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292) | ARXIV 2024 | [![](https://img.shields.io/github/stars/SakanaAI/AI-Scientist?style=social)](https://github.com/SakanaAI/AI-Scientist) | TBD | TBD | TBD | TBD |
 
